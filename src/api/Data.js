@@ -15,7 +15,8 @@ export const months = {
 
 
 
-export const customers = [{ id: 1, first: 'Taylor', last: 'Smith'},
+export const customers = [
+    { id: 1, first: 'Taylor', last: 'Smith'},
     { id: 2, first: 'Tho', last: 'Johnson'},
     { id: 3, first: 'Ben', last: 'Star'},
     { id: 4, first: 'Adam', last: 'Perez'}];
